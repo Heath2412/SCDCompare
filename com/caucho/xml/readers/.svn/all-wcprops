@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/readers
+END
+XmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/readers/XmlReader.java
+END
+MacroReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/readers/MacroReader.java
+END
+Utf16Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/readers/Utf16Reader.java
+END
+Utf8Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/readers/Utf8Reader.java
+END

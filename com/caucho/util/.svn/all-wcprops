@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util
+END
+MemoryPoolAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/MemoryPoolAdapter.java
+END
+JniCaucho.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/JniCaucho.java
+END
+TimeInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/TimeInterval.java
+END
+CompileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CompileException.java
+END
+Friend.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Friend.java
+END
+LruListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LruListener.java
+END
+InetNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/InetNetwork.java
+END
+LongKeyHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LongKeyHashMap.java
+END
+CharCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CharCursor.java
+END
+EnumIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/EnumIterator.java
+END
+LineCompileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LineCompileException.java
+END
+ByteAppendable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ByteAppendable.java
+END
+ExitListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ExitListener.java
+END
+NullEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/NullEnumeration.java
+END
+Crc64.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Crc64.java
+END
+ResinThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ResinThreadPoolExecutor.java
+END
+ThreadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ThreadTask.java
+END
+Alarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Alarm.java
+END
+LocaleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LocaleUtil.java
+END
+Slist.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Slist.java
+END
+WeakAlarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/WeakAlarm.java
+END
+LifoSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LifoSet.java
+END
+Sha256OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Sha256OutputStream.java
+END
+SyncCacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/SyncCacheListener.java
+END
+DisplayableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/DisplayableException.java
+END
+CacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CacheListener.java
+END
+L10N.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/L10N.java
+END
+ConcurrentArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ConcurrentArrayList.java
+END
+HTTPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/HTTPUtil.java
+END
+TimeIntervalElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/TimeIntervalElement.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/package.html
+END
+SQLExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/SQLExceptionWrapper.java
+END
+LruCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LruCache.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IntArray.java
+END
+JniTroubleshoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/JniTroubleshoot.java
+END
+AlarmHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/AlarmHeap.java
+END
+ThreadDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ThreadDump.java
+END
+WeakLruCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/WeakLruCache.java
+END
+Primes.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Primes.java
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Tree.java
+END
+JdbcUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/JdbcUtil.java
+END
+CharSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CharSegment.java
+END
+URLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/URLUtil.java
+END
+IdentityIntMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IdentityIntMap.java
+END
+AlarmListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/AlarmListener.java
+END
+StringCharCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/StringCharCursor.java
+END
+TimeIntervalScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/TimeIntervalScheduler.java
+END
+BeanUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/BeanUtil.java
+END
+RuntimeExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/RuntimeExceptionWrapper.java
+END
+CharBufferWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CharBufferWriter.java
+END
+IoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IoUtil.java
+END
+IntSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IntSet.java
+END
+CharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CharBuffer.java
+END
+AlarmClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/AlarmClock.java
+END
+DoubleArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/DoubleArray.java
+END
+WaitQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/WaitQueue.java
+END
+RandomUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/RandomUtil.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Test.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Log.java
+END
+ResinDeflaterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ResinDeflaterInputStream.java
+END
+NullIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/NullIterator.java
+END
+ResinDeflaterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ResinDeflaterOutputStream.java
+END
+Sprintf.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Sprintf.java
+END
+TimeIntervalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/TimeIntervalEntry.java
+END
+CharScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CharScanner.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Sort.java
+END
+ChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ChangeListener.java
+END
+IntegerResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IntegerResult.java
+END
+HashKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/HashKey.java
+END
+LongMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LongMap.java
+END
+ByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ByteBuffer.java
+END
+AbstractSoftScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/AbstractSoftScheduler.java
+END
+ExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ExceptionWrapper.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/NotImplementedException.java
+END
+HashMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/HashMapImpl.java
+END
+Html.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Html.java
+END
+CaseInsensitiveIntMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CaseInsensitiveIntMap.java
+END
+LongKeyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LongKeyMap.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/NullOutputStream.java
+END
+Exit.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Exit.java
+END
+HostUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/HostUtil.java
+END
+CyclicBarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/CyclicBarrier.java
+END
+FreeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/FreeList.java
+END
+LongKeyLruCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/LongKeyLruCache.java
+END
+ComparableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/ComparableElement.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Hex.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Base64.java
+END
+TimedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/TimedCache.java
+END
+Utf8.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/Utf8.java
+END
+HashKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/HashKeyManager.java
+END
+RegistryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/RegistryException.java
+END
+IntMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/IntMap.java
+END
+QDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/util/QDate.java
+END

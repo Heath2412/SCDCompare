@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Encoder.java
+END
+GenericDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/GenericDecoder.java
+END
+IconvUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/IconvUtility.java
+END
+QuercusMimeUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/QuercusMimeUtility.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Decoder.java
+END
+Big5Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Big5Encoder.java
+END
+Utf8Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Utf8Encoder.java
+END
+UnicodeUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/UnicodeUtility.java
+END
+MbstringModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/MbstringModule.java
+END
+Big5Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Big5Decoder.java
+END
+GenericEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/GenericEncoder.java
+END
+UnicodeModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/UnicodeModule.java
+END
+Utf8Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/i18n/Utf8Decoder.java
+END

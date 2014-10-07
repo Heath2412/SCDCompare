@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make
+END
+MakeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/MakeContainer.java
+END
+AlwaysModified.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/AlwaysModified.java
+END
+DependencyContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/DependencyContainer.java
+END
+ClassDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/ClassDependency.java
+END
+DependencyConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/DependencyConfig.java
+END
+VersionDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/VersionDependency.java
+END
+CachedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/CachedDependency.java
+END
+TaskConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/TaskConfig.java
+END
+DependencyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/DependencyList.java
+END
+Make.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/make/Make.java
+END

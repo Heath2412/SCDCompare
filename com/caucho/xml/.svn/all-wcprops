@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml
+END
+QProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QProcessingInstruction.java
+END
+Xml.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/Xml.java
+END
+NodeListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/NodeListImpl.java
+END
+QAttributeDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QAttributeDef.java
+END
+QText.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QText.java
+END
+QAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QAttributes.java
+END
+QCharacterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QCharacterData.java
+END
+CauchoNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/CauchoNode.java
+END
+HtmlEntities.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/HtmlEntities.java
+END
+QElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QElement.java
+END
+SerializedXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/SerializedXml.java
+END
+CauchoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/CauchoElement.java
+END
+QContentParticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QContentParticle.java
+END
+AbstractParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/AbstractParser.java
+END
+QDocumentFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDocumentFragment.java
+END
+QComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QComment.java
+END
+OtherEntities.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/OtherEntities.java
+END
+QAbstractNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QAbstractNode.java
+END
+RemoteURLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/RemoteURLException.java
+END
+QUnescapedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QUnescapedText.java
+END
+QDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDocument.java
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/Policy.java
+END
+QDeepNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDeepNodeList.java
+END
+XmlEntities.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlEntities.java
+END
+QDOMImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDOMImplementation.java
+END
+QEntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QEntityReference.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/package.html
+END
+XmlLatin1Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlLatin1Entities.java
+END
+HtmlPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/HtmlPolicy.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/Entities.java
+END
+DOMBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/DOMBuilder.java
+END
+QNodePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QNodePredicate.java
+END
+QElementDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QElementDef.java
+END
+NamespaceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/NamespaceMap.java
+END
+QEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QEntity.java
+END
+QName.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QName.java
+END
+QDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDocumentType.java
+END
+SAXBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/SAXBuilder.java
+END
+LooseXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/LooseXml.java
+END
+TeeContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/TeeContentHandler.java
+END
+QNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QNode.java
+END
+XmlParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlParseException.java
+END
+QDOMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QDOMException.java
+END
+XmlPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlPolicy.java
+END
+QAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QAttr.java
+END
+QCdata.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QCdata.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlUtil.java
+END
+QAttributedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QAttributedNode.java
+END
+CauchoDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/CauchoDocument.java
+END
+XmlPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlPrinter.java
+END
+Html.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/Html.java
+END
+LooseHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/LooseHtml.java
+END
+QNamedNodeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QNamedNodeMap.java
+END
+ContentHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/ContentHandlerAdapter.java
+END
+QNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QNotation.java
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlParser.java
+END
+HtmlLatin1.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/HtmlLatin1.java
+END
+DtdRelaxGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/DtdRelaxGenerator.java
+END
+QEmptyNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/QEmptyNodeList.java
+END
+ExtendedLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/ExtendedLocator.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XMLWriter.java
+END
+Latin1Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/Latin1Entities.java
+END
+XmlChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/XmlChar.java
+END

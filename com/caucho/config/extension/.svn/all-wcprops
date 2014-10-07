@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension
+END
+AfterDeploymentValidationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/AfterDeploymentValidationImpl.java
+END
+ProcessAnnotatedTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessAnnotatedTypeImpl.java
+END
+AfterBeanDiscoveryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/AfterBeanDiscoveryImpl.java
+END
+BeforeBeanDiscoveryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/BeforeBeanDiscoveryImpl.java
+END
+ProcessManagedBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessManagedBeanImpl.java
+END
+ProcessProducerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessProducerImpl.java
+END
+ProcessProducerMethodImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessProducerMethodImpl.java
+END
+ProcessBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessBeanImpl.java
+END
+ExtensionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ExtensionManager.java
+END
+ProcessObserverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessObserverImpl.java
+END
+ProcessProducerFieldImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessProducerFieldImpl.java
+END
+ProcessInjectionTargetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/extension/ProcessInjectionTargetImpl.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation
+END
+ServiceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/ServiceType.java
+END
+DefaultScopeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/DefaultScopeContext.java
+END
+StartupType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/StartupType.java
+END
+DisableConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/DisableConfig.java
+END
+NonEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/NonEL.java
+END
+ServiceBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/ServiceBinding.java
+END
+OsgiServiceBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/OsgiServiceBinding.java
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/annotation/Start.java
+END

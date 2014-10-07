@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy
+END
+IvyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyManager.java
+END
+IvyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyInfo.java
+END
+IvyPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyPattern.java
+END
+IvyDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyDependency.java
+END
+IvyMergeDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyMergeDependency.java
+END
+IvyRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyRevision.java
+END
+ivy.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/ivy.rnc
+END
+IvyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyCache.java
+END
+IvyModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyModule.java
+END
+IvyLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/ivy/IvyLoader.java
+END

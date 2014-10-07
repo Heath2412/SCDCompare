@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl
+END
+AbstractIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/AbstractIteratorImpl.java
+END
+IteratorAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/IteratorAggregate.java
+END
+ArrayAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/ArrayAccess.java
+END
+SplModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/SplModule.java
+END
+ArrayObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/ArrayObject.java
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/Serializable.java
+END
+CountableDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/CountableDelegate.java
+END
+OuterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/OuterIterator.java
+END
+Traversable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/Traversable.java
+END
+Countable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/Countable.java
+END
+RecursiveIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/RecursiveIterator.java
+END
+IteratorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/IteratorDelegate.java
+END
+SeekableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/SeekableIterator.java
+END
+ArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/ArrayIterator.java
+END
+Iterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/Iterator.java
+END
+IteratorAggregateDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/IteratorAggregateDelegate.java
+END
+ArrayAccessDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/spl/ArrayAccessDelegate.java
+END

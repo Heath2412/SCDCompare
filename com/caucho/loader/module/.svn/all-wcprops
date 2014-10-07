@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module
+END
+ArtifactResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactResolver.java
+END
+ArtifactVersionRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactVersionRange.java
+END
+ArtifactVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactVersion.java
+END
+ArtifactManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactManager.java
+END
+ArtifactClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactClassLoader.java
+END
+ArtifactDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactDependency.java
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/Artifact.java
+END
+ArtifactRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/loader/module/ArtifactRepository.java
+END

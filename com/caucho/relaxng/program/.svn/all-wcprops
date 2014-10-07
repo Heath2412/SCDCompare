@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program
+END
+NameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/NameItem.java
+END
+InElementItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/InElementItem.java
+END
+NsNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/NsNameItem.java
+END
+TextItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/TextItem.java
+END
+AnyNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/AnyNameItem.java
+END
+ElementItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/ElementItem.java
+END
+ChoiceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/ChoiceItem.java
+END
+ChoiceNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/ChoiceNameItem.java
+END
+GroupItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/GroupItem.java
+END
+MemoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/MemoItem.java
+END
+InterleaveItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/InterleaveItem.java
+END
+EmptyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/EmptyItem.java
+END
+AttributeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/AttributeItem.java
+END
+ZeroOrMoreItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/ZeroOrMoreItem.java
+END
+NameClassItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/NameClassItem.java
+END
+DataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/DataItem.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/program/Item.java
+END

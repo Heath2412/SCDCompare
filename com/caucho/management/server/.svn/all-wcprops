@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server
+END
+EnvironmentMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/EnvironmentMXBean.java
+END
+ConnectionPoolMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/ConnectionPoolMXBean.java
+END
+OsgiBundleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/OsgiBundleMXBean.java
+END
+AbstractManagedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/AbstractManagedObject.java
+END
+MeterGraphPageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/MeterGraphPageInfo.java
+END
+LoggerMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/LoggerMXBean.java
+END
+MeterGraphInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/MeterGraphInfo.java
+END
+TransactionManagerMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/TransactionManagerMXBean.java
+END
+DynamicClassLoaderMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/DynamicClassLoaderMXBean.java
+END
+OsgiServiceMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/OsgiServiceMXBean.java
+END
+ManagedObjectMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/ManagedObjectMXBean.java
+END
+WebBeanMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/management/server/WebBeanMXBean.java
+END

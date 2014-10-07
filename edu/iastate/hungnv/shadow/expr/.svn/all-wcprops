@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/289/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr
+END
+ToLongExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToLongExpr_.java
+END
+ConditionalExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/329/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ConditionalExpr_.java
+END
+BinaryAndExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/286/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryAndExpr_.java
+END
+AbstractBinaryExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/332/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/AbstractBinaryExpr_.java
+END
+ToStringExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/308/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToStringExpr_.java
+END
+ToObjectExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToObjectExpr_.java
+END
+BinaryEqExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/286/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryEqExpr_.java
+END
+BinaryAppendExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/328/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryAppendExpr_.java
+END
+ToDoubleExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToDoubleExpr_.java
+END
+BinaryGtExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/305/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryGtExpr_.java
+END
+UnaryNotExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/284/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/UnaryNotExpr_.java
+END
+ToArrayExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/329/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToArrayExpr_.java
+END
+ToBooleanExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/ToBooleanExpr_.java
+END
+AbstractUnaryExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/289/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/AbstractUnaryExpr_.java
+END
+BinaryLtExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/288/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryLtExpr_.java
+END
+BinaryOrExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/286/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryOrExpr_.java
+END
+BinaryLeqExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/305/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryLeqExpr_.java
+END
+BinaryNeqExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/315/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryNeqExpr_.java
+END
+BinaryEqualsExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/284/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/BinaryEqualsExpr_.java
+END
+FunIssetExpr_.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/291/Eclipse%20Projects/quercus/src/edu/iastate/hungnv/shadow/expr/FunIssetExpr_.java
+END

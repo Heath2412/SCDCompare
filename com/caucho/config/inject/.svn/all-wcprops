@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject
+END
+ScopeAdapterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ScopeAdapterBean.java
+END
+DecoratorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DecoratorEntry.java
+END
+ManagedSingletonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ManagedSingletonBean.java
+END
+SingletonBindingHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/SingletonBindingHandle.java
+END
+AnnotatedOverrideMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AnnotatedOverrideMap.java
+END
+BeanBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanBuilder.java
+END
+WebBeanAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/WebBeanAdmin.java
+END
+AbstractInjectionTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractInjectionTarget.java
+END
+DependentCreationalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DependentCreationalContext.java
+END
+ProducesFieldBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ProducesFieldBean.java
+END
+CandiProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CandiProducer.java
+END
+InjectionPointArg.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointArg.java
+END
+InjectEnvironmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectEnvironmentBean.java
+END
+CauchoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CauchoBean.java
+END
+InjectionPointImplHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointImplHandle.java
+END
+DisposesProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DisposesProducer.java
+END
+InterceptorSelfBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InterceptorSelfBean.java
+END
+CurrentLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CurrentLiteral.java
+END
+DefaultLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DefaultLiteral.java
+END
+CandiELContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CandiELContext.java
+END
+InjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectManager.java
+END
+ManagedProducesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ManagedProducesBuilder.java
+END
+CreationalContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CreationalContextImpl.java
+END
+DecoratorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DecoratorBean.java
+END
+ProducesMethodBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ProducesMethodBean.java
+END
+HandleAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/HandleAware.java
+END
+QualifierBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/QualifierBinding.java
+END
+InstanceBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InstanceBeanImpl.java
+END
+InjectScanManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectScanManager.java
+END
+AbstractIntrospectedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractIntrospectedBean.java
+END
+AbstractInjectionPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractInjectionPoint.java
+END
+InjectionPointBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointBean.java
+END
+BeanConfigFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanConfigFactory.java
+END
+PassivationSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/PassivationSetter.java
+END
+AbstractBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractBean.java
+END
+BeanStartupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanStartupEvent.java
+END
+BeanInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanInstance.java
+END
+CdiStatefulBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/CdiStatefulBean.java
+END
+WebBeansJndiProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/WebBeansJndiProxy.java
+END
+InjectionTargetFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionTargetFilter.java
+END
+WebComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/WebComponent.java
+END
+OwnerCreationalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/OwnerCreationalContext.java
+END
+DelegateProxyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DelegateProxyBean.java
+END
+InjectionPointStandardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointStandardBean.java
+END
+DisplayableInjectionTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/DisplayableInjectionTarget.java
+END
+ManagedBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ManagedBeanImpl.java
+END
+AnyLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AnyLiteral.java
+END
+BeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanWrapper.java
+END
+InjectScanClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectScanClass.java
+END
+AbstractInterceptorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractInterceptorBean.java
+END
+InterceptorLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InterceptorLiteral.java
+END
+AbstractSingletonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AbstractSingletonBean.java
+END
+InjectionPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointImpl.java
+END
+InterceptorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InterceptorEntry.java
+END
+ScheduleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ScheduleBean.java
+END
+InstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InstanceImpl.java
+END
+ProducesCreationalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ProducesCreationalContext.java
+END
+ProducesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ProducesBuilder.java
+END
+WebBeansAddLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/WebBeansAddLoaderListener.java
+END
+InjectionTargetBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionTargetBuilder.java
+END
+AnnotatedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/AnnotatedBean.java
+END
+NewLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/NewLiteral.java
+END
+BeanAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/BeanAdapter.java
+END
+InjectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionBean.java
+END
+SingletonHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/SingletonHandle.java
+END
+NewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/NewBean.java
+END
+InterceptorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InterceptorBean.java
+END
+InterceptorRuntimeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InterceptorRuntimeBean.java
+END
+SingletonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/SingletonBean.java
+END
+InjectionPointHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/InjectionPointHandler.java
+END
+ScanRootContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/inject/ScanRootContext.java
+END

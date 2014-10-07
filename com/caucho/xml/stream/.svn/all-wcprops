@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream
+END
+StaxIntern.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/StaxIntern.java
+END
+JAXPNotSupportedInStAXException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/JAXPNotSupportedInStAXException.java
+END
+DOMSourceXMLStreamReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/DOMSourceXMLStreamReaderImpl.java
+END
+SAXSourceXMLEventReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/SAXSourceXMLEventReaderImpl.java
+END
+SAXResultXMLStreamWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/SAXResultXMLStreamWriterImpl.java
+END
+XMLEventReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLEventReaderImpl.java
+END
+Escapifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/Escapifier.java
+END
+XMLStreamWriterRepairingWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLStreamWriterRepairingWrapper.java
+END
+XMLEventFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLEventFactoryImpl.java
+END
+StaxUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/StaxUtil.java
+END
+XMLEventWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLEventWriterImpl.java
+END
+XMLStreamReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLStreamReaderImpl.java
+END
+NamespaceContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/NamespaceContextImpl.java
+END
+FilteredEventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/FilteredEventReader.java
+END
+NamespaceReaderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/NamespaceReaderContext.java
+END
+XMLEventAllocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLEventAllocatorImpl.java
+END
+NamespaceBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/NamespaceBinding.java
+END
+PropertyNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/PropertyNotSupportedException.java
+END
+DOMResultXMLStreamWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/DOMResultXMLStreamWriterImpl.java
+END
+XMLInputFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLInputFactoryImpl.java
+END
+XMLOutputFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLOutputFactoryImpl.java
+END
+XMLStreamWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/XMLStreamWriterImpl.java
+END
+FilteredStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/FilteredStreamReader.java
+END
+NamespaceWriterContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/stream/NamespaceWriterContext.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern
+END
+AttributePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/AttributePattern.java
+END
+ZeroOrMorePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/ZeroOrMorePattern.java
+END
+NameClassPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/NameClassPattern.java
+END
+DataPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/DataPattern.java
+END
+RefPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/RefPattern.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/Pattern.java
+END
+NamePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/NamePattern.java
+END
+NsNamePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/NsNamePattern.java
+END
+TextPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/TextPattern.java
+END
+GrammarPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/GrammarPattern.java
+END
+AnyNamePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/AnyNamePattern.java
+END
+ElementPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/ElementPattern.java
+END
+ExcludeNamePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/ExcludeNamePattern.java
+END
+ChoicePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/ChoicePattern.java
+END
+ChoiceNamePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/ChoiceNamePattern.java
+END
+GroupPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/GroupPattern.java
+END
+InterleavePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/InterleavePattern.java
+END
+EmptyPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/relaxng/pattern/EmptyPattern.java
+END

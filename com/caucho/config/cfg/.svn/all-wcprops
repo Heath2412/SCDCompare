@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg
+END
+AbstractBeanConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/AbstractBeanConfig.java
+END
+j2ee-dtd.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/j2ee-dtd.rnc
+END
+resin-j2ee.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/resin-j2ee.rnc
+END
+j2ee.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/j2ee.rnc
+END
+resin-beans.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/resin-beans.rnc
+END
+webbeans.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/webbeans.rnc
+END
+env.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/env.rnc
+END
+j2ee13.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/j2ee13.rnc
+END
+BeanConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/BeanConfig.java
+END
+javaee.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/javaee.rnc
+END
+BeansConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/config/cfg/BeansConfig.java
+END

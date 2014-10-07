@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log
+END
+RotateLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/RotateLog.java
+END
+LoggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LoggerImpl.java
+END
+EnvironmentLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/EnvironmentLogger.java
+END
+LoggerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LoggerConfig.java
+END
+LogHandlerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LogHandlerConfig.java
+END
+LevelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LevelHandler.java
+END
+StderrLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/StderrLog.java
+END
+LogConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LogConfig.java
+END
+MessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/MessageFormatter.java
+END
+TimestampFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/TimestampFilter.java
+END
+RotateStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/RotateStream.java
+END
+SyslogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/SyslogHandler.java
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/EventHandler.java
+END
+EnvironmentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/EnvironmentStream.java
+END
+ELFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/ELFormatter.java
+END
+StdoutLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/StdoutLog.java
+END
+SubHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/SubHandler.java
+END
+TimestampFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/TimestampFormatter.java
+END
+LoggerAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LoggerAdmin.java
+END
+StreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/StreamHandler.java
+END
+PathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/PathHandler.java
+END
+AbstractRolloverLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/AbstractRolloverLog.java
+END
+ErrorLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/ErrorLog.java
+END
+LogManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/log/LogManagerImpl.java
+END

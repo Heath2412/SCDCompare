@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers
+END
+LooseXmlDocumentBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/LooseXmlDocumentBuilderFactory.java
+END
+XmlSAXParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/XmlSAXParserFactory.java
+END
+HtmlDocumentBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/HtmlDocumentBuilderFactory.java
+END
+LooseXmlSAXParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/LooseXmlSAXParserFactory.java
+END
+LooseHtmlDocumentBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/LooseHtmlDocumentBuilderFactory.java
+END
+HtmlSAXParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/HtmlSAXParserFactory.java
+END
+LooseHtmlSAXParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/LooseHtmlSAXParserFactory.java
+END
+AbstractDocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/AbstractDocumentBuilder.java
+END
+XmlDocumentBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/XmlDocumentBuilderFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/xml/parsers/package.html
+END

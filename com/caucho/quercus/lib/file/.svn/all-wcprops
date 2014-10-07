@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file
+END
+FileInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileInput.java
+END
+BinaryStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/BinaryStream.java
+END
+FileOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileOutput.java
+END
+PopenInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PopenInput.java
+END
+StreamModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/StreamModule.java
+END
+PopenOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PopenOutput.java
+END
+BinaryOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/BinaryOutput.java
+END
+ReadStreamInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/ReadStreamInput.java
+END
+FileReadValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileReadValue.java
+END
+PhpProtocolWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpProtocolWrapper.java
+END
+LineReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/LineReader.java
+END
+PhpStderr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpStderr.java
+END
+PhpBinaryInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpBinaryInput.java
+END
+WrappedStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/WrappedStream.java
+END
+HttpInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/HttpInputOutput.java
+END
+ZlibProtocolWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/ZlibProtocolWrapper.java
+END
+FileModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileModule.java
+END
+WriteStreamOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/WriteStreamOutput.java
+END
+PhpStdin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpStdin.java
+END
+AbstractBinaryOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/AbstractBinaryOutput.java
+END
+StreamBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/StreamBucket.java
+END
+UdpInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/UdpInputOutput.java
+END
+PhpStdout.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpStdout.java
+END
+DirectoryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/DirectoryValue.java
+END
+ProtocolWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/ProtocolWrapper.java
+END
+BinaryInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/BinaryInput.java
+END
+Directory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/Directory.java
+END
+StreamBucketBrigade.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/StreamBucketBrigade.java
+END
+AbstractBinaryInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/AbstractBinaryInputOutput.java
+END
+FileValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileValue.java
+END
+PhpBinaryOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/PhpBinaryOutput.java
+END
+FileInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileInputOutput.java
+END
+WrappedDirectoryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/WrappedDirectoryValue.java
+END
+FileWriteValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/FileWriteValue.java
+END
+TcpInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/TcpInputOutput.java
+END
+AbstractBinaryInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/AbstractBinaryInput.java
+END
+BufferedBinaryInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/BufferedBinaryInputOutput.java
+END
+SocketInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/SocketInputOutput.java
+END
+Stream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/Stream.java
+END
+SocketModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/lib/file/SocketModule.java
+END

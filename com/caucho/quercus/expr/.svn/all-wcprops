@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Hung-workspace/!svn/ver/289/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr
+END
+FunIssetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/336/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunIssetExpr.java
+END
+ParamRequiredExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ParamRequiredExpr.java
+END
+ConditionalExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/329/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ConditionalExpr.java
+END
+ParamDefaultExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ParamDefaultExpr.java
+END
+BinaryInstanceOfVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryInstanceOfVarExpr.java
+END
+ExprFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ExprFactory.java
+END
+VarUnsetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarUnsetExpr.java
+END
+ClassFieldExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassFieldExpr.java
+END
+FunCloneExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunCloneExpr.java
+END
+UnaryMinusExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryMinusExpr.java
+END
+LiteralLongExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralLongExpr.java
+END
+ClassVirtualMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVirtualMethodExpr.java
+END
+BinaryXorExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryXorExpr.java
+END
+UnaryUnsetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryUnsetExpr.java
+END
+VarTempExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarTempExpr.java
+END
+BinaryRightShiftExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryRightShiftExpr.java
+END
+ObjectMethodVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectMethodVarExpr.java
+END
+ObjectNewExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/323/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectNewExpr.java
+END
+ConditionalShortExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ConditionalShortExpr.java
+END
+BinaryModExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryModExpr.java
+END
+ThisFieldVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ThisFieldVarExpr.java
+END
+ConstDirExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ConstDirExpr.java
+END
+ClassVarMethodVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVarMethodVarExpr.java
+END
+BinaryNeqExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/315/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryNeqExpr.java
+END
+BinaryAssignExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAssignExpr.java
+END
+UnaryRefExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryRefExpr.java
+END
+ArrayUnsetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ArrayUnsetExpr.java
+END
+BinaryLeftShiftExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryLeftShiftExpr.java
+END
+BinarySubExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinarySubExpr.java
+END
+BinaryCommaExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryCommaExpr.java
+END
+VarVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarVarExpr.java
+END
+BinaryMulExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryMulExpr.java
+END
+ToLongExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToLongExpr.java
+END
+VarInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarInfo.java
+END
+BinaryCharAtExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryCharAtExpr.java
+END
+ObjectMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/323/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectMethodExpr.java
+END
+ThisExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ThisExpr.java
+END
+ThisMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ThisMethodExpr.java
+END
+UnaryPostIncrementExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryPostIncrementExpr.java
+END
+FunDieExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunDieExpr.java
+END
+UnaryPreIncrementExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryPreIncrementExpr.java
+END
+ThisFieldExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ThisFieldExpr.java
+END
+BinaryAppendExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAppendExpr.java
+END
+AbstractVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/AbstractVarExpr.java
+END
+BinaryBitXorExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryBitXorExpr.java
+END
+FunGetClassExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunGetClassExpr.java
+END
+ClassVarMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVarMethodExpr.java
+END
+BinaryGtExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/305/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryGtExpr.java
+END
+ToArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/329/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToArrayExpr.java
+END
+ClassFieldVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassFieldVarExpr.java
+END
+FunExitExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunExitExpr.java
+END
+ToBooleanExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToBooleanExpr.java
+END
+LiteralStringExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralStringExpr.java
+END
+CallVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/CallVarExpr.java
+END
+BinaryBitOrExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryBitOrExpr.java
+END
+ClassVarConstExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVarConstExpr.java
+END
+ClassVirtualMethodVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVirtualMethodVarExpr.java
+END
+BinaryAssignRefExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAssignRefExpr.java
+END
+FunArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunArrayExpr.java
+END
+LiteralBinaryStringExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralBinaryStringExpr.java
+END
+ClassVirtualFieldVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVirtualFieldVarExpr.java
+END
+ToUnicodeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToUnicodeExpr.java
+END
+ExprHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ExprHandle.java
+END
+FunIncludeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/323/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunIncludeExpr.java
+END
+BinaryAddExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAddExpr.java
+END
+ListHeadExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ListHeadExpr.java
+END
+BinaryEqualsExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryEqualsExpr.java
+END
+AbstractMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/AbstractMethodExpr.java
+END
+ClassMethodExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassMethodExpr.java
+END
+BinaryAndExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAndExpr.java
+END
+AbstractBinaryExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/AbstractBinaryExpr.java
+END
+ToObjectExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToObjectExpr.java
+END
+ToStringExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/308/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToStringExpr.java
+END
+BinaryEqExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryEqExpr.java
+END
+ObjectFieldExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectFieldExpr.java
+END
+CallExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/323/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/CallExpr.java
+END
+ClosureExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClosureExpr.java
+END
+UnarySuppressErrorExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnarySuppressErrorExpr.java
+END
+ArrayGetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/332/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ArrayGetExpr.java
+END
+UnaryBitNotExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryBitNotExpr.java
+END
+ClassMethodVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassMethodVarExpr.java
+END
+ClassVarFieldExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVarFieldExpr.java
+END
+ClassVirtualConstExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVirtualConstExpr.java
+END
+ObjectFieldVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectFieldVarExpr.java
+END
+BinaryAssignListExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAssignListExpr.java
+END
+ConstFileExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ConstFileExpr.java
+END
+ConstExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ConstExpr.java
+END
+BinaryLeqExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/305/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryLeqExpr.java
+END
+ToBinaryExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToBinaryExpr.java
+END
+ArrayTailExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ArrayTailExpr.java
+END
+VarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarExpr.java
+END
+ObjectNewVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ObjectNewVarExpr.java
+END
+ClassVarFieldVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVarFieldVarExpr.java
+END
+DieExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/DieExpr.java
+END
+FunIncludeOnceExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/323/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunIncludeOnceExpr.java
+END
+UnaryPlusExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryPlusExpr.java
+END
+LiteralUnicodeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralUnicodeExpr.java
+END
+BinaryAssignListEachExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryAssignListEachExpr.java
+END
+BinaryBitAndExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryBitAndExpr.java
+END
+FunEachExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunEachExpr.java
+END
+ImportExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ImportExpr.java
+END
+ClassConstructorExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassConstructorExpr.java
+END
+ClassConstExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassConstExpr.java
+END
+ToDoubleExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/310/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ToDoubleExpr.java
+END
+Expr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/Expr.java
+END
+UnaryNotExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryNotExpr.java
+END
+ClassVirtualFieldExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ClassVirtualFieldExpr.java
+END
+BinaryGeqExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryGeqExpr.java
+END
+ThisMethodVarExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ThisMethodVarExpr.java
+END
+AbstractUnaryExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/AbstractUnaryExpr.java
+END
+FunGetCalledClassExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/FunGetCalledClassExpr.java
+END
+AbstractLongValuedExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/AbstractLongValuedExpr.java
+END
+BinaryLtExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/288/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryLtExpr.java
+END
+BinaryOrExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Hung-workspace/!svn/ver/287/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryOrExpr.java
+END
+ArrayIsSetExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/ArrayIsSetExpr.java
+END
+BinaryDivExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryDivExpr.java
+END
+LiteralNullExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralNullExpr.java
+END
+UnaryCopyExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/UnaryCopyExpr.java
+END
+VarState.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/VarState.java
+END
+LiteralExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/LiteralExpr.java
+END
+BinaryInstanceOfExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Hung-workspace/!svn/ver/280/Eclipse%20Projects/quercus/src/com/caucho/quercus/expr/BinaryInstanceOfExpr.java
+END
